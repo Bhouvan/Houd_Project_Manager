@@ -1,0 +1,19 @@
+{
+    "humans": [
+        {
+            "Age": 22,
+            "EyeColor": "Blue",
+            "Name": "Andy"
+        },
+        {
+            "Age": 26,
+            "EyeColor": "Green",
+            "Name": "Suzie"
+        },
+        {
+            "Age": 24,
+            "EyeColor": "Brown",
+            "Name": "Mike"
+        }
+    ]
+}

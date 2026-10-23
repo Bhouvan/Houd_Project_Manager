@@ -1,0 +1,20 @@
+# houdini
+output/
+backup/
+*.rat
+*.bgeo
+*.png
+*.jpeg
+*.jpe
+*.abc
+*.fbx
+*.bgeo.sc
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/

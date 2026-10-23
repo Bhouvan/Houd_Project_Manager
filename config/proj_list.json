@@ -1,0 +1,12 @@
+{
+    "03_Test_Project": {
+        "CODE": "003",
+        "FPS": "25",
+        "PATH": "D:/PythonHoud/Work/_Houdini_/03_Test_Project"
+    },
+    "04_test_Project": {
+        "CODE": "004",
+        "FPS": "25",
+        "PATH": "D:/PythonHoud/Work/_Houdini_/04_test_Project"
+    }
+}
