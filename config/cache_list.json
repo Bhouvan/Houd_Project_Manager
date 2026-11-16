@@ -1,37 +1,53 @@
 {
-    "Project 1": 
-    {
-    "Scene_1":
-        {
-            "vers1": 1,
-            "hip": "",
-            "parms":{
-                
-            }
-        }        
-    },
-
-    "Project 2":
-    {
-        "scene_1":
-        {
-            "vers1": 1,
-            "hip": "",
-            "parms":{
-
-            }
-        },
-    
-        "scene_2":{
-            "vers1": 1,
-            "hip": "",
-            "parms":{
-                
-            }
+    "04_test_Project": {
+        "my_scene": {
+            "/obj/ground/loff": [
+                {
+                    "hip": "",
+                    "parms": {},
+                    "vers": 5
+                },
+                {
+                    "hip": "",
+                    "parms": {},
+                    "vers": 8
+                },
+                {
+                    "hip": "D:/PythonHoud/Work/_Houdini_/04_test_Project/scenes/my_scene/working_files/my_scene-firstsave-v002-bhouvan.hip",
+                    "parms": {},
+                    "vers": 9
+                },
+                {
+                    "hip": "D:/PythonHoud/Work/_Houdini_/04_test_Project/scenes/my_scene/working_files/my_scene-firstsave-v002-bhouvan.hip",
+                    "parms": {},
+                    "vers": 2
+                },
+                {
+                    "hip": "D:/PythonHoud/Work/_Houdini_/04_test_Project/scenes/my_scene/working_files/my_scene-firstsave-v002-bhouvan.hip",
+                    "parms": {},
+                    "vers": 2
+                },
+                {
+                    "hip": "D:/PythonHoud/Work/_Houdini_/04_test_Project/scenes/my_scene/working_files/my_scene-firstsave-v002-bhouvan.hip",
+                    "parms": {},
+                    "vers": 2
+                },
+                {
+                    "hip": "D:/PythonHoud/Work/_Houdini_/04_test_Project/scenes/my_scene/working_files/my_scene-firstsave-v002-bhouvan.hip",
+                    "parms": {},
+                    "vers": 2
+                },
+                {
+                    "hip": "D:/PythonHoud/Work/_Houdini_/04_test_Project/scenes/my_scene/working_files/my_scene-firstsave-v002-bhouvan.hip",
+                    "parms": {},
+                    "vers": 2
+                },
+                {
+                    "hip": "D:/PythonHoud/Work/_Houdini_/04_test_Project/scenes/my_scene/working_files/my_scene-firstsave-v002-bhouvan.hip",
+                    "parms": {},
+                    "vers": 2
+                }
+            ]
         }
     }
-        
-
-    
-
 }
